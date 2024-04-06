@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Ahmed Keshka 👋
 I am a Computer Science graduate from the University of Portsmouth who is passionate about all things related to Web Development & Machine Learning
 
 - 🔭 I'm currently a Data Science & Analytics Master's student
