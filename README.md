@@ -5,3 +5,5 @@ I am a Computer Science graduate from the University of Portsmouth who is passio
 - 🌱 I’m currently learning AI/ML as well as new Web Development technologies
 - 💬 Ask me about React, JavaScript, Machine Learning
 - 💼 Currently searching for a full time job in Software Development while pursuing my Master's!
+
+Connect with me on LinkedIn here https://linkedin.com/in/ahmed-keshka
