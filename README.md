@@ -10,4 +10,4 @@ I am a Computer Science graduate from the University of Portsmouth who is passio
 
 My tech stack:
 
-<img src="./images/Unofficial_JavaScript_logo_2.svg" width="50px" /> <img src="./images/reactjs-ar21.svg" width="100px" /> <img src="./images/nodejs-horizontal.svg" width="150px" /> <img src="./images/expressjs-ar21.svg" width="100px" /> <img src="./images/mongodb-ar21.svg" width="100px" /> <img src="./images/postgresql-horizontal.svg" width="250px" />
+<img src="./images/Unofficial_JavaScript_logo_2.svg" width="50px" /> <img src="./images/reactjs-ar21.svg" width="100px" /> <img src="./images/nodejs-horizontal.svg" width="150px" /> <img src="./images/expressjs-ar21.svg" width="100px" /> <img src="./images/mongodb-ar21.svg" width="100px" /> <img src="./images/postgresql-horizontal.svg" height="40px" width="120px" />
