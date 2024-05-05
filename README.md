@@ -4,7 +4,7 @@ I am a Computer Science graduate from the University of Portsmouth who is passio
 
 - 🌱 I’m currently learning AI/ML and plan on starting a Master's in 2024
 - 💬 Ask me about React, Node, Express, MongoDB, PostgreSQL, JavaScript, and Python
-- 💼 Currently searching for a full-time job in Software Development while pursuing my Master's!
+- 💼 Currently searching for a full-time job in Software Development
 
 [![Linkedin: ahmedkeshka](https://img.shields.io/badge/-Connect_with_me_on_Linkedin!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahmed-keshka)](https://linkedin.com/in/ahmed-keshka/)
 
