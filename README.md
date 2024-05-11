@@ -2,6 +2,7 @@
 
 I am a Computer Science graduate from the University of Portsmouth who is passionate about all things related to Web Development & Machine Learning
 
+- 👉 Check out my [portfolio](https://ak292.github.io/portfolio) if you'd like to see some of my projects in action!
 - 🌱 I’m currently learning AI/ML and plan on starting a Master's in 2024
 - 💬 Ask me about React, Node, Express, MongoDB, PostgreSQL, JavaScript, and Python
 - 💼 Currently searching for a full-time job in Software Development
