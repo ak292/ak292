@@ -3,8 +3,8 @@
 I am a Computer Science graduate from the University of Portsmouth who is passionate about all things related to Web Development & Machine Learning
 
 - 👉 Check out my [portfolio](https://ak292.github.io/portfolio) if you'd like to see some of my projects in action!
-- 🌱 I’m currently learning AI/ML and plan on starting a Master's in 2024
-- 💬 Ask me about JavaScript, React, Node, Express, MongoDB, Java, Python, HTML5, and CSS3
+- 🌱 I’m currently pursuing a Master's degree in Artificial Intelligence at the University of Ottawa
+- 💬 Ask me about Web Development/Chrome Extension Development & Machine Learning!
 - 💼 Currently searching for a full-time job in Software Development
 
 [![Linkedin: ahmedkeshka](https://img.shields.io/badge/-Connect_with_me_on_Linkedin!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahmed-keshka)](https://linkedin.com/in/ahmed-keshka/)
