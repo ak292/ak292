@@ -2,7 +2,7 @@
 
 I am a Computer Science graduate from the University of Portsmouth who is passionate about all things related to Web Development & Machine Learning
 
-- 👉 Check out my [portfolio](https://ak292.github.io/portfolio) if you'd like to see some of my projects in action!
+- 👉 Check out my [portfolio](https://ak292.github.io) if you'd like to see some of my projects in action!
 - 🌱 I’m currently pursuing a Master's degree in Artificial Intelligence at the University of Ottawa
 - 💬 Ask me about Web Development, Chrome Extension Development, and Machine Learning!
 - 💼 Currently searching for a full-time job in Software Development
