@@ -1,11 +1,10 @@
 # Hi there, my name is Ahmed Keshka 👋
 
-I'm a Computer Science graduate from the University of Portsmouth with a passion for Web Development and Machine Learning.
+I'm a Software Developer and a part-time Master's student at the University of Ottawa!
 
 - 👉 Check out my [portfolio](https://ak292.github.io) to see some of my projects in action!
 - 🌱 Currently pursuing a Master's degree in Artificial Intelligence at the University of Ottawa
 - 💬 Ask me about Web Development, Chrome Extension Development, and Machine Learning!
-- 💼 Actively searching for a full-time job in Software Development
 
 [![Linkedin: ahmedkeshka](https://img.shields.io/badge/-Connect_with_me_on_Linkedin!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahmed-keshka)](https://linkedin.com/in/ahmed-keshka/)
 
