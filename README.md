@@ -1,14 +1,31 @@
-### Hi there, my name is Ahmed Keshka 👋
+# Hi there, my name is Ahmed Keshka 👋
 
-I am a Computer Science graduate from the University of Portsmouth who is passionate about all things related to Web Development & Machine Learning
+I'm a Computer Science graduate from the University of Portsmouth with a passion for Web Development and Machine Learning.
 
-- 👉 Check out my [portfolio](https://ak292.github.io) if you'd like to see some of my projects in action!
-- 🌱 I’m currently pursuing a Master's degree in Artificial Intelligence at the University of Ottawa
+- 👉 Check out my [portfolio](https://ak292.github.io) to see some of my projects in action!
+- 🌱 Currently pursuing a Master's degree in Artificial Intelligence at the University of Ottawa
 - 💬 Ask me about Web Development, Chrome Extension Development, and Machine Learning!
-- 💼 Currently searching for a full-time job in Software Development
+- 💼 Actively searching for a full-time job in Software Development
 
 [![Linkedin: ahmedkeshka](https://img.shields.io/badge/-Connect_with_me_on_Linkedin!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ahmed-keshka)](https://linkedin.com/in/ahmed-keshka/)
 
-My tech stack:
+---
 
-<img src="./images/Unofficial_JavaScript_logo_2.svg" width="50px" /> <img src="./images/reactjs-ar21.svg" width="100px" /> <img src="./images/nodejs-horizontal.svg" width="150px" /> <img src="./images/expressjs-ar21.svg" height="40px" width="100px" /> <img src="./images/mongodb-ar21.svg" width="100px" /> <img src="./images/java-ar21.svg" height="60px" width="90px" /> <img src="./images/Python.svg" height="50px" width="70px" /> <img src="./images/HTML5_Badge.svg" height="50px" width="80px" /> <img src="./images/CSS3_logo.svg" height="50px" width="50px" />
+### 🛠 My Tech Stack:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="50px"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px"/>
+</p>
