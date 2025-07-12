@@ -1,9 +1,9 @@
 # Hi there, my name is Ahmed Keshka 👋
 
-I'm a Software Developer and a part-time Master's student at the University of Ottawa!
+I'm a Software Developer who is passionate about all things related to Full-stack Web Development
 
 - 👉 Check out my [portfolio](https://ak292.github.io) to see some of my projects in action!
-- 🌱 Currently pursuing a Master's degree in Artificial Intelligence at the University of Ottawa
+- 🌱 I have a Master's degree in Artificial Intelligence from the University of Ottawa and a Bachelor's in Computer Science!
 - 💬 Ask me about Web Development, Chrome Extension Development, and Machine Learning!
 
 ---
