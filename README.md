@@ -1,6 +1,6 @@
 # Hi there, my name is Ahmed Keshka 👋
 
-I'm a Software Developer who is passionate about all things related to Full-stack Web Development
+I'm a Computer Science graduate who is passionate about all things related to Web Development and Machine Learning.
 
 - 👉 Check out my [portfolio](https://ak292.github.io) to see some of my projects in action!
 - 🌱 I have a Master's degree in Artificial Intelligence from the University of Ottawa and a Bachelor's in Computer Science!
