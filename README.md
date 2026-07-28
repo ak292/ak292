@@ -1,11 +1,10 @@
 # Hi there, my name is Ahmed Keshka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a Full Stack Developer with over a year of professional experience who is passionate about all things related to Web Development and Machine Learning.
+I'm a Full Stack Developer with over a year of professional experience who is passionate about all things related to Web Development and AI.
 
 - 👉 Check out my [portfolio](https://ak292.github.io) to see some of my projects in action!
 - 🌱 I have a Master's degree in Artificial Intelligence from the University of Ottawa and a Bachelor's in Computer Science!
-- 💬 Ask me about Web Development, Chrome Extension Development, and Machine Learning!
-- 😄 Pronouns: He/Him/His
+- 💬 Ask me about Web Development, Chrome Extension Development, and AI Engineering!
 
 ---
 
